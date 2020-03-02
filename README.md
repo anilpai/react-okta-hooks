@@ -10,6 +10,11 @@ This library explores how React Hooks can work to make integration with Okta eve
 
 I took the initial react-hooks implementaion of Shou Wu's (@shuowu) repo available at https://github.com/shuowu-okta/okta-react-hooks-exp & added more features. Wu tried to abstract hooks logic into separated modules for general usage.
 
+## Setup
+
+Go to `/src/config.js` and fill the Okta credentials (domain url & clientId)
+
+
 ## Installation
 
 ### `yarn install`
